@@ -1,2 +1,3 @@
-# cron-humanizer
-Translate standard cron expression patterns into friendly English sentences.
+# Cron Humanizer
+
+Convert cron syntax expressions into human-readable descriptions.
